@@ -56,4 +56,9 @@ Recursion & pointer :[Bit & Qubit](https://www.youtube.com/@bitandqubit/videos)
 ## Hindi 
 1. [ Simple Snippets](https://www.youtube.com/@SimpleSnippets/playlists)
 2. [Dinesh Viryani](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
+
+
+## English
+1. [James Parelta](https://www.youtube.com/@jamesperaltaSWE/playlists)
+2. [A code Daily](https://www.youtube.com/@Acodedaily/search?query=Leetcode)
 3. 
