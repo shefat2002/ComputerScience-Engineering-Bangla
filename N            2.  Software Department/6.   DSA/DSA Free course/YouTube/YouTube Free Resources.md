@@ -4,6 +4,7 @@
 [Coding Seekiho](https://www.youtube.com/watch?v=OkS9YkfW50s)
 
 ## Bangla
+[DhSirClassRoom](https://www.youtube.com/watch?v=rddVXDsvkQk&list=PLxMU9o_xFAfsZkQPpIzRmryOsncltlRh6)
 Creators Garage Club : [](https://www.youtube.com/watch?v=zU1l_3pni4Q&list=PLEdpzVR8XTjYoAB3bY4oZ8TFpGifdvZQN&index=2)
 CPI Poly Technique Dhaka : [](https://www.youtube.com/watch?v=xckNCvd9_Yg&list=PLYo5MkklwWkAejwvqwfXYP3QCUSHQdqiJ)
 Dhaka College: [](https://www.youtube.com/watch?v=DvXjcFAQo-U&list=PLnlBjmudMSY2-iC-jeSgufNJkFDfzOtNY)
@@ -26,6 +27,18 @@ Poly Technique Edu : [](https://www.youtube.com/watch?v=nxCIRChDqag&list=PLaKhCR
 [Minhazul Islam](https://www.youtube.com/@minhazulislam3048/playlists)
 [MIST Classes](https://www.youtube.com/@mistclasses25/videos)
 [MIST Classes](https://www.youtube.com/@mistclasses25/playlists)
+
+## Sorting 
+### DhSirClassRoom
+1. [Linear Search](https://youtu.be/5646LNknGWY?si=yhTTmnPqXQsKFNUd)
+2. [Insertion vs Selection Analysis](https://youtu.be/hKGOCVNg23U?si=1T7-GqNg0MLX1ROX)
+3. [Bubble Sorting ](https://youtu.be/qdU7j4tMfq4?si=dWmuMdSilcyxXvdX)
+4. [Bucket Sorting](https://youtu.be/oSh960W4w-I?si=gHMEDSB0hZHwqqek)
+5. [Radix Sort](https://youtu.be/yoky3Ek2yKs?si=wMNlomv07mWkLGMc)
+6. [Heap Data Structure](https://youtu.be/sgn3piO-aTI?si=3JL4r7nME18A4Cry)
+7. [BFS & DFS](https://youtu.be/lrVAwJUHbhM?si=ncPrEau6fn7ZDrg_)
+8. 
+
 
 Md. Shariful Islam Ashique  : [](https://www.youtube.com/@mdsiaofficial/videos)
 ## Advance DSA: 
