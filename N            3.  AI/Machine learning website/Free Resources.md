@@ -17,7 +17,16 @@ Sarfraz Raza[](https://www.youtube.com/@SarfrazRazaOfficial/playlists)
  [Utshab Kumar Ghosh](https://www.youtube.com/watch?v=FWzsirIYB94&list=PL8fwLZ3a6azf4oVffUWpS8-5sTInZfMhu)
  [cse Society 36k](https://www.youtube.com/@csesociety9400/playlists)
  [Zahid Hassan](https://www.youtube.com/@zahidhossen3134/playlists)
+ [The Data Enthusiast](https://www.youtube.com/@TheDataEnthusiast/playlists)
+ [Musabbir Samak](https://www.youtube.com/@musabbirsammak/playlists)
+ [DsWithBappy](https://www.youtube.com/@dswithbappy/playlists)
  
+
+
+## Mixed Hindi + English
+1. [Vizura](https://www.youtube.com/@vizuara/playlists)
+2. [UCLA QCBio Collaboratory](https://www.youtube.com/@uclaqcbiocollaboratory3691/playlists)
+3. []
  
 
 

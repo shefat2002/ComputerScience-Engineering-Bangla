@@ -14,4 +14,7 @@
 
 ## English 
 1. [ Anton Burtsev ](https://www.youtube.com/@AntonBurtsev/playlists)
-2. 
+
+
+## Hindi
+[Love Babbar](https://www.youtube.com/watch?v=_TpOHMCODXo&list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)

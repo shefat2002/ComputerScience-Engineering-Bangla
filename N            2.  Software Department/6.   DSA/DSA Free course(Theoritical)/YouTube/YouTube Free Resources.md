@@ -28,6 +28,8 @@ Poly Technique Edu : [](https://www.youtube.com/watch?v=nxCIRChDqag&list=PLaKhCR
 [MIST Classes](https://www.youtube.com/@mistclasses25/videos)
 [MIST Classes](https://www.youtube.com/@mistclasses25/playlists)
 
+ [Musabbir Samak](https://www.youtube.com/@musabbirsammak/playlists)(Good)
+
 ## Sorting 
 ### DhSirClassRoom
 1. [Linear Search](https://youtu.be/5646LNknGWY?si=yhTTmnPqXQsKFNUd)
@@ -69,6 +71,10 @@ Recursion & pointer :[Bit & Qubit](https://www.youtube.com/@bitandqubit/videos)
 ## Hindi 
 1. [ Simple Snippets](https://www.youtube.com/@SimpleSnippets/playlists)
 2. [Dinesh Viryani](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
+3. [McaupyGrinds - Compititive Programming Intro](https://www.youtube.com/watch?v=Ejep0Nu5ww0&list=PLhj9nmfWA-AJvhNXK_mINojySEVq5mt6W)
+4. [McaupyGrinds - Compititive Programming Math](https://www.youtube.com/watch?v=ImWiBummOM8&list=PLhj9nmfWA-AJbkADmjp5OCt4lpyVZTLJ5)
+5. [McaupyGrinds - Compititive Programming](https://www.youtube.com/watch?v=GMgnriqynXo&list=PLhj9nmfWA-AIj40KGrGRhYfneajzVW0yt)
+6. 
 
 
 ## English

@@ -60,7 +60,8 @@ VLSI design course Link: [](https://docs.google.com/forms/d/e/1FAIpQLSfWGFtu2KeP
 
 ## Hindi 
 1. [ CodeLangs_Software_Training_Institute ](https://www.youtube.com/@codelangs/playlists)
-2. 
+2. [Love Babbar](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)
+3. 
 
 ## Bangla 
 - [# Md. Abdullah-Al-Kafi](https://www.youtube.com/@CompilationError/playlists)
