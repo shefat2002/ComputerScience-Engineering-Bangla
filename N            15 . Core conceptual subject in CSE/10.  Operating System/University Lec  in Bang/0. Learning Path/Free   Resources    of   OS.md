@@ -14,6 +14,7 @@
 
 ## English 
 1. [ Anton Burtsev ](https://www.youtube.com/@AntonBurtsev/playlists)
+2. [boot Dot Dev](https://www.youtube.com/@bootdotdev/videos)
 
 
 ## Hindi

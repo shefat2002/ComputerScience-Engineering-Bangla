@@ -4,16 +4,17 @@
 [Youtube](https://www.youtube.com/watch?v=TU61PsnVNlo&list=PLqqgU0PuY-K1E2j1A8dC34y0dVaCr0pXw)
 
 ## YouTube some good channel
-Hasnat Riaz: [](https://www.youtube.com/@hasnatriaz4177/videos)
-Content on Demand : [](https://www.youtube.com/watch?v=snZWnWUOEZ4&list=PLW7fU_8SZVrt7ztQmsRbcpid-7vSq6Yu5&index=2)
-bscancs: [](https://www.youtube.com/watch?v=DvY8FiZfYE8 )
+[Immanuel Truemar](https://www.youtube.com/watch?v=i7iugcmrBJ8&list=PLXPbT_PYOiRipfX8zrv_9EpnSOpK9P__j)(Good. If u can please complete it)
+[Hasnat Riaz](https://www.youtube.com/@hasnatriaz4177/videos)
+[Content on Demand ](https://www.youtube.com/watch?v=snZWnWUOEZ4&list=PLW7fU_8SZVrt7ztQmsRbcpid-7vSq6Yu5&index=2)
+[bscancs](https://www.youtube.com/watch?v=DvY8FiZfYE8 )
 [Doc of CSE ](https://www.youtube.com/@dcccse21stbatch61/playlists)
 
-University Academy: [](https://www.youtube.com/watch?v=u1y3INqT84o&list=PL-JvKqQx2AtdMoxNiK4p7jomyAxgayJlC)
-GeekforGeeks DataScience and AI : [](https://www.youtube.com/watch?v=7txyDsj-0Lk )
- PPSC Smasher : [](https://www.youtube.com/watch?v=dnkMpKhVBjA)
-MAD I : [](https://www.youtube.com/watch?v=QqpN6JDjixQ )
-CMax : [](https://www.youtube.com/watch?v=h3-g_sUyqqk&list=PLdMnODUFlKOK1Y2EHE6FUMGNsG6PQAmfQ&index=5)
+[University Academy](https://www.youtube.com/watch?v=u1y3INqT84o&list=PL-JvKqQx2AtdMoxNiK4p7jomyAxgayJlC)
+[GeekforGeeks DataScience and AI](https://www.youtube.com/watch?v=7txyDsj-0Lk )
+[PPSC Smasher](https://www.youtube.com/watch?v=dnkMpKhVBjA)
+[MAD I ](https://www.youtube.com/watch?v=QqpN6JDjixQ )
+[CMax](https://www.youtube.com/watch?v=h3-g_sUyqqk&list=PLdMnODUFlKOK1Y2EHE6FUMGNsG6PQAmfQ&index=5)
 
 Rajshahi University Course : [](https://www.youtube.com/@shamimahmad4182/playlists)
 BoU 5th Batch:[](https://www.youtube.com/watch?v=xX1KcCUk3XM&list=PL66OrBsAMhKiaYWE1CPjxwLTXU5h2x5R5&index=4)

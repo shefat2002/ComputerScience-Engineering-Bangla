@@ -26,7 +26,7 @@ Sarfraz Raza[](https://www.youtube.com/@SarfrazRazaOfficial/playlists)
 ## Mixed Hindi + English
 1. [Vizura](https://www.youtube.com/@vizuara/playlists)
 2. [UCLA QCBio Collaboratory](https://www.youtube.com/@uclaqcbiocollaboratory3691/playlists)
-3. []
- 
+3. [sentdex](https://www.youtube.com/@sentdex/playlists) [Sentdex - website](https://nnfs.io/neural_network_animations)
+4. 
 
 

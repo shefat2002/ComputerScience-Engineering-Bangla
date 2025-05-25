@@ -80,4 +80,4 @@ Recursion & pointer :[Bit & Qubit](https://www.youtube.com/@bitandqubit/videos)
 ## English
 1. [James Parelta](https://www.youtube.com/@jamesperaltaSWE/playlists)
 2. [A code Daily](https://www.youtube.com/@Acodedaily/search?query=Leetcode)
-3. 
+3. [boot Dot Dev](https://www.youtube.com/@bootdotdev/videos)
