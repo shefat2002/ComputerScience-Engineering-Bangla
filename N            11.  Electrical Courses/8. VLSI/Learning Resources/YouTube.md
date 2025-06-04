@@ -2,4 +2,12 @@
 2. Israel VLSI COURSE : [](https://www.youtube.com/watch?v=GIPhBfenqMc&list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G&index=1)
 3. [MIST Classes](https://www.youtube.com/@mistclasses25/videos)
 5. [MIST Classes](https://www.youtube.com/@mistclasses25/playlists)
-6. 
+6. [MD. Tahmidul Iqbal](https://www.youtube.com/@tahmidraven/playlists)
+7. [VLSI Excillence - ](https://www.youtube.com/@vlsiexcellence/playlists)
+8. [Explorer](https://www.youtube.com/@explorer9577/playlists)
+
+
+## Adv. VLSI
+1. [Tanvir Ahmed Tariq](https://www.youtube.com/watch?v=Tvjy_xsqV1k&list=PL-gPMfK-bku70g6-vR8pHFzRWDV8movWR)
+2. [Md. Liakot Ali](https://www.youtube.com/@ClassLecturesOfProfDrMdLiakotA/videos)
+3. 

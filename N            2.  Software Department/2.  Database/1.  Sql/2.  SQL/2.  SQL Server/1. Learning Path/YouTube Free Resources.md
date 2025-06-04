@@ -9,3 +9,8 @@ Brent Ozar Unlimited : [](https://www.youtube.com/watch?v=NuwDF6kzONs&list=PLDYq
 
 ## Bangla Guide line for Master in MS SQL Server
 [Lean Sigma IT ](https://www.youtube.com/watch?v=7RO9y6EQN6E&t=4s)
+
+
+[Analytics with Nags](https://www.youtube.com/@AnalyticswithNags/playlists)
+[Azurelib Academy](https://www.youtube.com/watch?v=42lHwAq2f-A&list=PLL_oDTv-DAl8udN6mHXSxeQccLvlwMvXY&index=9)
+

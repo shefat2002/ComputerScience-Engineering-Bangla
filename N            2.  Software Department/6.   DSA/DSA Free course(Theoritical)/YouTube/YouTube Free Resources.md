@@ -2,6 +2,7 @@
 
 ## C/C++ DSA
 [Coding Seekiho](https://www.youtube.com/watch?v=OkS9YkfW50s)
+[Interview Cracking -Tamim Shahriyar Shubin](https://www.youtube.com/watch?v=S7KkshlDDfc&list=PLym69wpbTIIEaLEYr7c9omgs33aewDFDw)
 
 ## Bangla
 [DhSirClassRoom](https://www.youtube.com/watch?v=rddVXDsvkQk&list=PLxMU9o_xFAfsZkQPpIzRmryOsncltlRh6)
@@ -27,6 +28,7 @@ Poly Technique Edu : [](https://www.youtube.com/watch?v=nxCIRChDqag&list=PLaKhCR
 [Minhazul Islam](https://www.youtube.com/@minhazulislam3048/playlists)
 [MIST Classes](https://www.youtube.com/@mistclasses25/videos)
 [MIST Classes](https://www.youtube.com/@mistclasses25/playlists)
+[Advanced Competitive Programming - Compiler Error by Ikram](https://www.youtube.com/watch?v=YOCY-Yc8zwk&list=PLgyot4DNLUKMGKcJoY_KXzDsE7qKCoqif)(Minimal but best)
 
  [Musabbir Samak](https://www.youtube.com/@musabbirsammak/playlists)(Good)
 
@@ -81,3 +83,5 @@ Recursion & pointer :[Bit & Qubit](https://www.youtube.com/@bitandqubit/videos)
 1. [James Parelta](https://www.youtube.com/@jamesperaltaSWE/playlists)
 2. [A code Daily](https://www.youtube.com/@Acodedaily/search?query=Leetcode)
 3. [boot Dot Dev](https://www.youtube.com/@bootdotdev/videos)
+4. [Yang xsu](https://www.youtube.com/@innerfirexy/playlists)
+5. 

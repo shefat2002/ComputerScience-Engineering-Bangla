@@ -8,7 +8,8 @@
 [Hasnat Riaz](https://www.youtube.com/@hasnatriaz4177/videos)
 [Content on Demand ](https://www.youtube.com/watch?v=snZWnWUOEZ4&list=PLW7fU_8SZVrt7ztQmsRbcpid-7vSq6Yu5&index=2)
 [bscancs](https://www.youtube.com/watch?v=DvY8FiZfYE8 )
-[Doc of CSE ](https://www.youtube.com/@dcccse21stbatch61/playlists)
+[DCC CSE 21st Batch](https://www.youtube.com/@dcccse21stbatch61/playlists)
+
 
 [University Academy](https://www.youtube.com/watch?v=u1y3INqT84o&list=PL-JvKqQx2AtdMoxNiK4p7jomyAxgayJlC)
 [GeekforGeeks DataScience and AI](https://www.youtube.com/watch?v=7txyDsj-0Lk )
@@ -31,11 +32,11 @@ NIT STL:[](https://www.youtube.com/@TODTESTNIITSLTTraining/search?query=PLSQL)
 
 PL/SQL  Oracle[](https://www.youtube.com/watch?v=c2U5TxkI2iM&list=PLJH-yZnnY308r4uidBbmEXG0uOypkLQ-V)
 CMAX : [](https://www.youtube.com/watch?v=q9SovFnB_Lc&list=PLdMnODUFlKOK1Y2EHE6FUMGNsG6PQAmfQ)
+[CSE20(Bengali)](https://www.youtube.com/@CSE20Bengali/playlists)
+BRAC University    [Murshed Jamil Arif ](https://www.youtube.com/watch?v=ZAS3ygUr6jQ&list=PLbrkVe8jT_YwMhF4TWw1Q9ETFrUIYjOPM)
+BRAC University   [ kamruzzaman konok](https://www.youtube.com/@kamruzzamankonok6417/search?query=313)
 
-CSE20(Bengali): [](https://www.youtube.com/@CSE20Bengali/playlists)
-BRAC University  `Murshed Jamil Arif ` :[](https://www.youtube.com/watch?v=ZAS3ygUr6jQ&list=PLbrkVe8jT_YwMhF4TWw1Q9ETFrUIYjOPM)
-BRAC University `# kamruzzaman konok`  : [](https://www.youtube.com/@kamruzzamankonok6417/search?query=313)
-Saiki Yuji : [](https://www.youtube.com/@sakaiyuji2664/playlists)
+ [Saiki Yuji](https://www.youtube.com/@sakaiyuji2664/playlists)
 [Ahsan Habib Niloy](https://www.youtube.com/@AhashanHabibNiloy/playlists)
 
 
@@ -65,4 +66,7 @@ VLSI design course Link: [](https://docs.google.com/forms/d/e/1FAIpQLSfWGFtu2KeP
 3. 
 
 ## Bangla 
-- [# Md. Abdullah-Al-Kafi](https://www.youtube.com/@CompilationError/playlists)
+- [Md. Abdullah-Al-Kafi](https://www.youtube.com/@CompilationError/playlists)
+
+## English
+[A2Z Database](https://www.youtube.com/@databasesa2z75/search?query=Database%20Management%20System%20)
