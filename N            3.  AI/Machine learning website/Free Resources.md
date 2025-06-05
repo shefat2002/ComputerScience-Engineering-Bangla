@@ -2,7 +2,7 @@
 ## Online Free course:
  **bangla** : [ IIT-Kanpur ](https://nptel.ac.in/courses/106105247)
  **English** : [MLDL Study](https://www.mldl.study/)
- 
+ **Hindi**: [Coding With Sheryans](https://www.youtube.com/watch?v=1L420xXpDTg)
 
 ## Learning From Website:
 [জাকির হোসাইন](https://jakir.me/category/machine-learning/)
