@@ -1,5 +1,8 @@
 # Basic DSA 
-
+# Before jump on the DSA check it out
+1. [How you gonna waste your time to solve DSA Problem](https://www.youtube.com/watch?v=ltTwPzE547A)(get rid off it)
+2. [How to actually practicing](https://www.youtube.com/watch?v=7x-omjb1P-Q)
+3. 
 ## C/C++ DSA
 [Coding Seekiho](https://www.youtube.com/watch?v=OkS9YkfW50s)
 [Interview Cracking -Tamim Shahriyar Shubin](https://www.youtube.com/watch?v=S7KkshlDDfc&list=PLym69wpbTIIEaLEYr7c9omgs33aewDFDw)
