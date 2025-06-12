@@ -79,7 +79,7 @@ Recursion & pointer :[Bit & Qubit](https://www.youtube.com/@bitandqubit/videos)
 3. [McaupyGrinds - Compititive Programming Intro](https://www.youtube.com/watch?v=Ejep0Nu5ww0&list=PLhj9nmfWA-AJvhNXK_mINojySEVq5mt6W)
 4. [McaupyGrinds - Compititive Programming Math](https://www.youtube.com/watch?v=ImWiBummOM8&list=PLhj9nmfWA-AJbkADmjp5OCt4lpyVZTLJ5)
 5. [McaupyGrinds - Compititive Programming](https://www.youtube.com/watch?v=GMgnriqynXo&list=PLhj9nmfWA-AIj40KGrGRhYfneajzVW0yt)
-6. 
+6. [Coder Army](https://www.youtube.com/@CoderArmy9/playlists)
 
 
 ## English

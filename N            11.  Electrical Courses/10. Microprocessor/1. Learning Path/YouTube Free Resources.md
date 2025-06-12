@@ -10,14 +10,20 @@
 10. [Coder Bhai](https://www.youtube.com/@CoderBhaiBD/playlists)
 11. [DCC CSE 21st Batch](https://www.youtube.com/@dcccse21stbatch61/playlists)
 12. [uiu docs](https://www.youtube.com/watch?v=04WVck8LRnk&list=PL3_ATDyQLqPj4JqidihQwAzmK6T8H_ln7)
-13. [Linta Islam](https://www.youtube.com/watch?v=yBB9z7AFz1w&list=PLlLwDbbnMDZQIG3o1ufdRAexTFWI8szgo)
-14. [MD. Tahmidul Iqbal](https://www.youtube.com/@tahmidraven/playlists)
-15. [Tanvir Ahmed Tarik Sumon](https://www.youtube.com/@TanvirAhmadTariqueSumon/search?query=Embedded%20)
-16. [Tanvir Ahmed Tarik Sumon ](https://www.youtube.com/watch?v=5-iTysFwQ20&list=PL-gPMfK-bku6odDVtODr4EwFcC9dXNy1Z)
-17. [Dr Omkar Singh](https://www.youtube.com/watch?v=ytzyt28l52I&list=PLkdSraxyaHxDFydgATJic2V016LqFWaMk)
-18. [Md. Hasanuzzaman(Rahid)](https://www.youtube.com/@md.hasanuzzaman2277/playlists)
-19. 
+13. [Samsuzzaman](https://www.youtube.com/watch?v=3AdpQrQwmPU&list=PLS6j43qoYjPjq3Yv0OfxkX8GP5kfo01d5&index=7)
+14. [Linta Islam](https://www.youtube.com/watch?v=yBB9z7AFz1w&list=PLlLwDbbnMDZQIG3o1ufdRAexTFWI8szgo)
+15. [MD. Tahmidul Iqbal](https://www.youtube.com/@tahmidraven/playlists)
+16. [Tanvir Ahmed Tarik Sumon](https://www.youtube.com/@TanvirAhmadTariqueSumon/search?query=Embedded%20)
+17. [Tanvir Ahmed Tarik Sumon ](https://www.youtube.com/watch?v=5-iTysFwQ20&list=PL-gPMfK-bku6odDVtODr4EwFcC9dXNy1Z)
+18. [Dr Omkar Singh](https://www.youtube.com/watch?v=ytzyt28l52I&list=PLkdSraxyaHxDFydgATJic2V016LqFWaMk)
+19. [Md. Hasanuzzaman(Rahid)](https://www.youtube.com/@md.hasanuzzaman2277/playlists)
+20. 
+21. 
 
 ## Embedded C Programming
 1. [EST Circuit](https://www.youtube.com/watch?v=fpO-c2Wg254)
+
+
+## Practice some Assembly code & Projects
+1. [rng70 - GitHub](https://github.com/rng70/Assembly-Programming)
 2. 
